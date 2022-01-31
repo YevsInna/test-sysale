@@ -1,5 +1,7 @@
 import React from 'react';
 
+import '../style.css'
+
 const Picture = () => {
     return (
         <div className={'picture'}>
